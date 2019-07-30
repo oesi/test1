@@ -1,3 +1,3 @@
 <?php
 echo "Hallo";
-echo "Feature3";
+echo "Featureallbranches";
